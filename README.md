@@ -6,10 +6,9 @@
 - 🏤 Cursando Técnico em Desenvolvimento de Sistemas na Etec Sapopemba
 - 📌 Em constante evolução.
   
+## 💻 Tecnologias
+
 ![Victor Varjão GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Varjao&show_icons=true&theme=dark)
-
-
-## 💻 Tecnologias que eu uso
 
 <div style="display: inline_block">
   <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
