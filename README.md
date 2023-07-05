@@ -15,8 +15,8 @@
   <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=orange">
   <img aling="center" alt="JavaScirpt" src="https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=yellow">
   <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=css3&logoColor=blue">
-  <img aling="center" alt="MySQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-100000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-  <img aling="center" alt="" src="https://img.shields.io/badge/C%23-100000?style=for-the-badge&logo=c-sharp&logoColor=green">
+  <img aling="center" alt="MySQL" src="https://img.shields.io/badge/MariaDB-100000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img aling="center" alt="python" src="https://img.shields.io/badge/C%23-100000?style=for-the-badge&logo=c-sharp&logoColor=green">
     <img aling="center" alt="MySQL" src="https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=blue">
    <img aling="center" alt="MySQL" src="https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git">
   <img aling="center" alt="Boot" src="https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=purple">
