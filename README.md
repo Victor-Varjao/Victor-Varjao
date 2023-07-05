@@ -27,7 +27,7 @@
 </div>
 <div align="left" dir="auto">
 <br>
-Sempre tentando melhorar e aprender coisas novas!
+"Os sonhos das pessoas não tem fim, se eles não tem fim, porque eu vou parar?"
 <br>
 <hr height="1">
   
