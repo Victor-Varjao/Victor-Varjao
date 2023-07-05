@@ -8,7 +8,7 @@
   
 ## 👾 Status
 
-![Victor Varjão GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Varjao&show_icons=true&theme=dark)
+![Victor Varjão GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Varjao&show_icons=true&theme=merko)
 
 ## 💻 Tecnologias
 
