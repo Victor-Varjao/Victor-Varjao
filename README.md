@@ -27,7 +27,7 @@
 </div>
 <div align="left" dir="auto">
 <br>
-"Os sonhos das pessoas não tem fim, se eles não tem fim, porque que eu vou parar?"
+"Os sonhos das pessoas não tem fim!? se eles não tem fim, porque que eu vou parar?"
 <br>
 <hr height="1">
   
