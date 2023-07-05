@@ -22,8 +22,8 @@
   <img aling="center" alt="Boot" src="https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=purple">
     <img alt="GitHub" src="https://camo.githubusercontent.com/912ca89796628095a091b16bd74b5016ea7f36ad49e1d49ac65d24abf49e099d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" data-canonical-src="https://img.shields.io/badge/github-100000?style=for-the-badge&amp;logo=github">
   <br><br>
-  <img alt="Visitors Count" src="https://visitcount.itsvg.in/api?id=Victor-Varjao&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)" data-canonical-src="https://visitcount.itsvg.in/api?id=Victor-Varjao&amp;icon=0&amp;color=11" style="max-width: 100%;">
-    <img align="right" width="24%" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  <img alt="Visitors Count" src="https://visitcount.itsvg.in/api?id=Victor-Varjao&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)" data-canonical-src="https://visitcount.itsvg.in/api?id=Victor-Varjao&amp;icon=0&amp;color=11">
+    <img align="right" width="24%" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 <div align="left" dir="auto">
 <br>
