@@ -5,11 +5,11 @@
   
 ## 👾 Status
 
-![Victor Varjão GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Varjao&show_icons=true&theme=tokyonight)
+![Victor Varjão GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Varjao&show_icons=true&theme=dracula)
 
 ## 💻 Tecnologias
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Varjao&layout=compact&theme=drakula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Varjao&layout=compact&theme=dracula)
 
 <div style="display: inline_block">
   <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=orange">
